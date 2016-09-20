@@ -21,6 +21,7 @@
 void check_Socket(char *port);
 void check_Connection(int argc, char *hostname);
 void print_welcome_info();
+void checkLogin(char *port);
 void send_data_receive_reply(char *data);
 void send_data_receive_board(char *data);
 void send_data_no_reply(char *data);
