@@ -1,2 +1,2 @@
 # CAB403Assignment2
-ATM Machine
+An assignment on Bank Transaction with Client Server architecture.
